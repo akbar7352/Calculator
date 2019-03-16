@@ -1,0 +1,29 @@
+#result-container{
+    margin-top: 13%;
+}
+#result-text{
+    width: 314px;
+    height: 43px;
+    background-color: #612727b0;
+    color: #f3d9a8;
+    border-radius: 28px;
+    padding: 26px;
+    outline: navajowhite;
+    border-width: 0px;
+    font-size: 26px;
+}
+#keypad{
+    width: 301px;
+    margin-top: 20px;
+}
+.btn-calc {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    outline: navajowhite;
+    border-width: 0px;
+    background-color: rgba(69, 116, 220, 0);
+    color: aqua;
+    border: 1px #f50505 solid;
+    font-size: 25px;
+}
